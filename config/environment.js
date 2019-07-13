@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Starteq',
+      description: 'Tech Startup Equalizer Podcast',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'About us',
         route: 'page',
         id: 'chris-manson'
       }]
